@@ -1,5 +1,14 @@
-<html>
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Start page</title>
+</head>
 <body>
-<h2>Hello World!</h2>
+
+<a href="/people">People list</a>
+<br/>
+<a href="/admin">Set admin</a>
+
 </body>
 </html>
